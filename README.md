@@ -2,23 +2,15 @@
 ## This is a Facilities Application
 ## to show the scourse code app, please contact with me .
 
-![1](https://github.com/HassanNafed/AGMA_APP/assets/128227283/80b46474-c22b-431b-951f-6700dc444164)
- 
-![2](https://github.com/HassanNafed/AGMA_APP/assets/128227283/5f0e36db-1f06-4667-940d-e3e348b0edd7)
- 
-![3](https://github.com/HassanNafed/AGMA_APP/assets/128227283/66024cf3-674b-4860-a7ec-8802a44da7a0)
-## 
-![4](https://github.com/HassanNafed/AGMA_APP/assets/128227283/d127b5d6-625d-4f7f-b493-72b9b5fb99e8)
-## 
-![5](https://github.com/HassanNafed/AGMA_APP/assets/128227283/ff699531-0d9f-431a-ba83-63537e769936)
-## 
-![6](https://github.com/HassanNafed/AGMA_APP/assets/128227283/5121d79d-5740-41d5-831a-741fb6601405)
-## 
-![7](https://github.com/HassanNafed/AGMA_APP/assets/128227283/e2da7326-01e9-44c9-9c67-81b17c9a1220)
-## 
-![8](https://github.com/HassanNafed/AGMA_APP/assets/128227283/b69c52e5-381c-4605-b98d-64bf5c747578)
-## 
-![9](https://github.com/HassanNafed/AGMA_APP/assets/128227283/95dae1af-166a-42fc-bb5e-2b386f88c64f)
-## 
-![10](https://github.com/HassanNafed/AGMA_APP/assets/128227283/60c79660-ef82-447e-8a96-d4f3a0d9e847)
+![11](https://github.com/HassanNafed/AGMA_APP/assets/128227283/8fddd1a4-9372-4a15-9edb-82d7efb93f9f)
+![12](https://github.com/HassanNafed/AGMA_APP/assets/128227283/28c51247-4899-4339-8cca-5f48d4de65c3)
+![13](https://github.com/HassanNafed/AGMA_APP/assets/128227283/5554619c-6344-4375-a13f-8a551b20cb0a)
+![14](https://github.com/HassanNafed/AGMA_APP/assets/128227283/7ced057e-3f70-4e18-b883-faaf90f6241d)
+![15](https://github.com/HassanNafed/AGMA_APP/assets/128227283/0a34f7c2-a5fe-4f5e-b4c0-716217b8932f)
+![16](https://github.com/HassanNafed/AGMA_APP/assets/128227283/b800cbc4-1af2-4faa-bd05-f3b70d9f56b9)
+![17](https://github.com/HassanNafed/AGMA_APP/assets/128227283/bdcde883-0a82-4108-b26d-413c549f7f6b)
+![18](https://github.com/HassanNafed/AGMA_APP/assets/128227283/b710d02c-3c5a-428f-802c-cc5fd020f93b)
+![19](https://github.com/HassanNafed/AGMA_APP/assets/128227283/4815acf4-f973-4008-8f43-74bebe63ebe3)
+![20](https://github.com/HassanNafed/AGMA_APP/assets/128227283/9341da87-30a5-4a40-a18c-c2cbd861f13e)
+
 
